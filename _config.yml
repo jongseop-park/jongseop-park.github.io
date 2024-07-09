@@ -89,15 +89,15 @@ content:
           - Description of role
           - Description of role2
       - layout: left
-          title: 애드캡슐소프트
-          sub_title: 웹 개발자
-          caption: 2019. 12 ~ 2023. 01
-          link: https://www.adcapsule.kr
-          quote: >
-            웹사이트,모바일사이트 구축(APP&Mobile Web),대규모 ITO(IT OUTSOURCING)
-          description: |
-            - Description of role
-            - Description of role2
+        title: 애드캡슐소프트
+        sub_title: 웹 개발자
+        caption: 2019. 12 ~ 2023. 01
+        link: https://www.adcapsule.kr
+        quote: >
+          웹사이트,모바일사이트 구축(APP&Mobile Web),대규모 ITO(IT OUTSOURCING)
+        description: |
+          - Description of role
+          - Description of role2
   - title: Skill
     layout: list
     content:
