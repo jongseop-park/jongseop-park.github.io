@@ -51,14 +51,13 @@ youtube_username: "@user-ku1kl3qe7v?si=40DQi745Hq6weST7"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <h2>반갑습니다, 박종섭입니다.</h2>
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  <h1><b>반갑습니다, 박종섭입니다.</b></h1>
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  저는 5년차 웹 개발자로 <mark>Web Agency/SI/SM/플랫폼 개발</mark> 등 다양한 기술과 프로젝트 경험을 토대로 <mark>전문적인 역량</mark>을 갖추고 있습니다.
+  주요 기술 스택은 java, springboot, vue.js, thymeleaf, jstl, javascript, jquery, database 등 <mark>다양한 템플릿과 언어 및 프레임워크</mark>를 다룰 수 있으며,
+  솔직하고 당찬 성격으로 팀 협업과 소통 능력을 통해 팀 프로젝트를 성공적으로 이끌어 낼 수 있는 역량을 보유하고 있습니다.
+
+  제 다양한 경험과 끊임없는 도전으로 새로운 기회에 기여할 수 있을 것입니다.
 
 content:
   - title: Projects # Title for the section
