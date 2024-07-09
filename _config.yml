@@ -120,6 +120,7 @@ content:
     content:
       - layout: left
         title: 비사이드
+        link: bside.best
         sub_title: 산들산들 App
         caption: 2022. 02 ~ 2022. 05
         quote: >
