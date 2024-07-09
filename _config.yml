@@ -101,19 +101,45 @@ content:
     content:
       - layout: left
         title: Backend
-        description: | # this will include new lines to allow paragraphs
-          - Skill1, Skill2
-          - Skill3, Skill4
+        description: |
+          - Java
+          - Spring
+            - Spring MVC
+            - Spring Boot
+            - Spring Data JPA
+          - JSP
+          - JSTL
+          - Thymeleaf
+          - Redis
+          - MSA
+          - MySQL
+          - PostgreSQL
+          - Oracle
+          - MariaDB
+          - Mybatis
       - layout: left
         title: DevOps
-        description: | # this will include new lines to allow paragraphs
-          - Skill1, Skill2
-          - Skill3, Skill4
+        description: |
+          - GitHub
+          - GitLab
+          - Upsource
+          - Jenkins
+          - Linux
       - layout: left
         title: Frontend
-        description: | # this will include new lines to allow paragraphs
-          - Skill1, Skill2
-          - Skill3, Skill4
+        description: |
+          - JavaScript
+          - Vue.js
+            - vuex
+            - Nuxt.js
+            - Vuetify
+          - jQuery
+      - layout: left
+        title: IDEs
+        description: |
+          - IntelliJ IDEA
+          - Eclipse
+          - Fork
 
   - title: Education
     layout: list
@@ -131,7 +157,7 @@ content:
           - Miro, Figma, Notion 등을 활용하여 아이디어 활용, 마일스톤 작성
           - Java, Spring Boot로 서버 개발 및 <mark>Jwt, OAuth2.0 로그인 기능</mark> 구현<br/>
       - layout: left
-        title: 캡스톤 경진대회 (교내활동)
+        title: 캡스톤 경진대회
         caption: 2019. 04 ~ 2019. 12
         quote: >
           9개월 간 진행된 캡스톤 경진대회 (20팀 참여)
