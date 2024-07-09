@@ -68,15 +68,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://www.findjob.co.kr
+        link_text: 벼룩시장 구인구직
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -86,16 +79,25 @@ content:
     layout: list
     content:
       - layout: left
-        title: ㈜미디어윌 벼룩시장 사업본부
+        title: 미디어윌벼룩시장사업본부
         sub_title: 웹 개발자
         caption: 2023. 01 ~ 현재
-        link: https://www.findjob.co.kr
+        link: http://www.mediawill.com
         quote: >
           M25·TopGear·부동산써브 등 다양한 뉴미디어 사업을 전개하고 있는 종합 정보 미디어 기업
         description: |
           - Description of role
           - Description of role2
-
+      - layout: left
+          title: 애드캡슐소프트
+          sub_title: 웹 개발자
+          caption: 2019. 12 ~ 2023. 01
+          link: https://www.adcapsule.kr
+          quote: >
+            웹사이트,모바일사이트 구축(APP&Mobile Web),대규모 ITO(IT OUTSOURCING)
+          description: |
+            - Description of role
+            - Description of role2
   - title: Skill
     layout: list
     content:
