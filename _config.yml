@@ -120,17 +120,16 @@ content:
     content:
       - layout: left
         title: 비사이드
-        sub_title: Backend 개발
+        sub_title: 산들산들 App
         caption: 2022. 02 ~ 2022. 05
         quote: >
           총 165개의 프로젝트를 진행한 사이드 프로젝트 플랫폼
         description: | # this will include new lines to allow paragraphs
-          - 기획, 디자인, 프론트엔드, 백엔드로 총 8명이 프로젝트 진행
-          - Miro 마인드맵을 통한 아이디어 공유
-          - Figma 디자인
-          - Notion 일정 계획 수립
-          - flutter, Next.js, Spring Boot, Database를 사용한 앱 개발
-          - Images ![alt text](/images/bside.png "bside")
+          - 사용자의 위치를 활용해 등산 경로 및 주변 맛집 추천하는 앱
+          - 기획, 디자인, 프론트엔드, 백엔드 총 8명으로 구성되어 사이드 프로젝트 진행
+          - Miro, Figma, Notion 등을 활용하여 아이디어 활용, 마일스톤 작성
+          - Java, Spring Boot로 서버 개발 및 <mark>Jwt, OAuth2.0 로그인 기능</mark> 구현
+          <img src="/images/bside.png" alt="bside" style="width: 30%;">
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
