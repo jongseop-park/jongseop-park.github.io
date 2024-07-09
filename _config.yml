@@ -89,10 +89,11 @@ content:
         sub_title: 웹 개발자
         caption: 2023.01 ~ 현재
         link: https://www.findjob.co.kr
-#        quote: >
-#          Short description of the company (optional)
+        quote: >
+          M25·TopGear·부동산써브 등 다양한 뉴미디어 사업을 전개하고 있는 종합 정보 미디어 기업
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Description of role
+          - Description of role2
   - title: Education
     layout: list
     content:
