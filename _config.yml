@@ -128,8 +128,8 @@ content:
           - 사용자의 위치를 활용해 등산 경로 및 주변 맛집 추천하는 앱
           - 기획, 디자인, 프론트엔드, 백엔드 총 8명으로 구성되어 사이드 프로젝트 진행
           - Miro, Figma, Notion 등을 활용하여 아이디어 활용, 마일스톤 작성
-          - Java, Spring Boot로 서버 개발 및 <mark>Jwt, OAuth2.0 로그인 기능</mark> 구현
-          <img src="/images/bside.png" alt="bside" style="width: 30%;">
+          - Java, Spring Boot로 서버 개발 및 <mark>Jwt, OAuth2.0 로그인 기능</mark> 구현<br/>
+          <img src="/images/bside.png" alt="bside" style="width: 50%;">
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
