@@ -85,12 +85,12 @@ content:
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: ㈜미디어윌 벼룩시장 사업본부
+        sub_title: 웹 개발자
+        caption: 2023.01 ~ 현재
+        link: https://www.findjob.co.kr
+#        quote: >
+#          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
