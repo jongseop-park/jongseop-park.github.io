@@ -81,28 +81,49 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
       - layout: left
         title: ㈜미디어윌 벼룩시장 사업본부
         sub_title: 웹 개발자
-        caption: 2023.01 ~ 현재
+        caption: 2023. 01 ~ 현재
         link: https://www.findjob.co.kr
         quote: >
           M25·TopGear·부동산써브 등 다양한 뉴미디어 사업을 전개하고 있는 종합 정보 미디어 기업
         description: | # this will include new lines to allow paragraphs
           - Description of role
           - Description of role2
+
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: Backend
+        description: | # this will include new lines to allow paragraphs
+          - Skill1, Skill2
+          - Skill3, Skill4
+      - layout: left
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          - Skill1, Skill2
+          - Skill3, Skill4
+      - layout: left
+          title: Frontend
+          description: | # this will include new lines to allow paragraphs
+            - Skill1, Skill2
+            - Skill3, Skill4
+
   - title: Education
     layout: list
     content:
       - layout: left
-        title: Institution name
+        title: 비사이드
         sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        caption: 2022. 02 ~ 2022. 05
         quote: >
-          Short institution or course description (optional)
+          총 165개의 프로젝트를 진행한 사이드 프로젝트 플랫폼
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
