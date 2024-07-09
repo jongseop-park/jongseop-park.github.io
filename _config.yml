@@ -120,12 +120,17 @@ content:
     content:
       - layout: left
         title: 비사이드
-        sub_title: Qualifications (eg. BA Performing Arts)
+        sub_title: Backend 개발
         caption: 2022. 02 ~ 2022. 05
         quote: >
           총 165개의 프로젝트를 진행한 사이드 프로젝트 플랫폼
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - 기획, 디자인, 프론트엔드, 백엔드로 총 8명이 프로젝트 진행
+          - Miro 마인드맵을 통한 아이디어 공유
+          - Figma 디자인
+          - Notion 일정 계획 수립
+          - flutter, Next.js, Spring Boot, Database를 사용한 앱 개발
+          - Images ![alt text](/images/bside.png "bside")
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
