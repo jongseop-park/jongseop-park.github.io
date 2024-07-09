@@ -131,14 +131,14 @@ content:
           - Miro, Figma, Notion 등을 활용하여 아이디어 활용, 마일스톤 작성
           - Java, Spring Boot로 서버 개발 및 <mark>Jwt, OAuth2.0 로그인 기능</mark> 구현<br/>
       - layout: left
-          title: 캡스톤 경진대회 (교내활동)
-          caption: 2019. 04 ~ 2019. 12
-          quote: >
-            9개월 간 진행된 캡스톤 경진대회 (20팀 참여)
-          description: | # this will include new lines to allow paragraphs
-            - 게임 내 반복 작업으로 재화 획득 및 소모하여 강해지는 방치형 RPG 게임
-            - C#, Unity엔진 사용 및 Asset을 적용하여 이벤트 처리
-            - 구글 플레이스토어에 앱 출시 (현재는 운영하지 않음)
+        title: 캡스톤 경진대회 (교내활동)
+        caption: 2019. 04 ~ 2019. 12
+        quote: >
+          9개월 간 진행된 캡스톤 경진대회 (20팀 참여)
+        description: | # this will include new lines to allow paragraphs
+          - 게임 내 반복 작업으로 재화 획득 및 소모하여 강해지는 방치형 RPG 게임
+          - C#, Unity엔진 사용 및 Asset을 적용하여 이벤트 처리
+          - 구글 플레이스토어에 앱 출시 (현재는 운영하지 않음)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
