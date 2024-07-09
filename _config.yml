@@ -51,6 +51,7 @@ youtube_username: "@user-ku1kl3qe7v?si=40DQi745Hq6weST7"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  <h2>반갑습니다, 박종섭입니다.</h2>
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
