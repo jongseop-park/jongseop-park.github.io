@@ -104,12 +104,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Skill1, Skill2
           - Skill3, Skill4
-      layout: left
+      - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - Skill1, Skill2
           - Skill3, Skill4
-      layout: left
+      - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
           - Skill1, Skill2
