@@ -216,7 +216,7 @@ content:
           - 사용자의 위치를 활용해 등산 경로 및 주변 맛집 추천하는 앱
           - 기획, 디자인, 프론트엔드, 백엔드 총 8명으로 구성되어 사이드 프로젝트 진행
           - Miro, Figma, Notion 등을 활용하여 아이디어 활용, 마일스톤 작성
-          - Java, Spring Boot로 서버 개발 및 <mark>Jwt, OAuth2.0 로그인 기능</mark> 구현<br/>
+          - Java, Spring Boot로 서버 개발 및 <mark>JWT, OAuth2.0 로그인 기능</mark> 구현<br/>
       - layout: left
         title: 캡스톤 경진대회
         caption: 2019. 04 ~ 2019. 12
