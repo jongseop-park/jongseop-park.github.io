@@ -65,16 +65,48 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
+        border: weak
+        title: 벼룩시장 플랫폼 재개발
         link: https://www.findjob.co.kr
-        link_text: 벼룩시장 구인구직
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+          2023. 08. 01 ~ 현재
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: 요청 게시판 언어 재개발
+        link: https://www.findjob.co.kr
+        quote: >
+          2023. 01. 09 ~ 2023. 07. 31
+        description: |
           Description about the work on/with the project
 
+      - layout: left
+        border: weak
+        title: 중소기업중앙회 "참 괜찮은 중소기업" 개선 단기 구축
+        link: https://www.findjob.co.kr
+        quote: >
+          2022. 12. 05 ~ 2022. 12. 30
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: 본사 인사고과 시스템 개발
+        link: https://www.findjob.co.kr
+        link_text: 벼룩시장 플랫폼 재개발
+        quote: >
+          2022. 08. 01 ~ 2022. 12. 02
+        description: |
+          Description about the work on/with the project
+      - layout: left
+        border: weak
+        title: 중소기업중앙회 홈페이지 통합 유지보수
+        link: https://www.findjob.co.kr
+        link_text: 벼룩시장 플랫폼 재개발
+        quote: >
+          2021.01 . 01 ~ 2022. 07. 29
+        description: |
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
