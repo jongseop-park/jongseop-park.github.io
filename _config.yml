@@ -71,7 +71,7 @@ content:
         quote: >
           2023. 08. 01 ~ 현재
         description: |
-          - abc
+          - 프로젝트 초기 개발 환경 구성 및
       - layout: left
         border: weak
         title: 요청 게시판 언어 재개발
@@ -105,6 +105,20 @@ content:
           2021.01 . 01 ~ 2022. 07. 29
         description: |
           - abc
+
+      - layout: left
+        border: weak
+        title: 시각 장애인 정보 접근성을 위한 스크립트 개발
+        sub_title: 단기 외주 프로젝트
+        link: https://github.com/khsbory/javascript-for-accessibility
+        quote: >
+          2021. 11. ~ 2022. 12.
+        description: |
+          - 시각 장애인 사용자의 입장에서 개발하기 위해 스크린 리더를 설치하여 테스트
+          - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
+          - 키보드 동작에 따라 개발자 도구 내 소스를 소리로 읽도록 구현
+          - 바닐라 스크립트와 jQuery를 사용하였고, jQuery를 최신 버전으로 유지하여 호환성 확보
+
   - title: Experience
     layout: list
     content:
@@ -138,22 +152,33 @@ content:
     content:
       - layout: left
         title: Backend
+        quote: >
+          업무 중에 한 번이라도 사용했거나 사용 중인 기술들입니다.
         description: |
           - Java
           - Spring
             - Spring MVC
             - Spring Boot
-            - Spring Data JPA
-          - JSP
-          - JSTL
-          - Thymeleaf
+            - Spring Batch
+            - Spring Schedule
+            - Spring Security
+          - Template Engine
+            - JSP
+            - JSTL
+            - Thymeleaf
+          - Database
+            - MySQL
+            - PostgreSQL
+            - Oracle
+            - MariaDB
+            - Mybatis
+            - Mssql
+          - Build
           - Redis
           - MSA
-          - MySQL
-          - PostgreSQL
-          - Oracle
-          - MariaDB
-          - Mybatis
+          - Build Tools
+            - Maven
+            - Gradle
       - layout: left
         title: DevOps
         description: |
@@ -168,7 +193,6 @@ content:
           - JavaScript
           - Vue.js
             - vuex
-            - Nuxt.js
             - Vuetify
           - jQuery
       - layout: left
