@@ -74,7 +74,9 @@ content:
         description: |
           - 클라이언트·서버 프로젝트 환경 구성 및 네이밍 가이드라인을 제시하여 일관성 향상
           - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
+            - 정규식 마스킹처리, storage 암·복호화, 페이징 처리, format, filter, validation 등
           - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
+          - 300만 건의 데이터의 실행 계획을 분석하여 30초 -> 5초
       - layout: left
         border: weak
         title: 요청 게시판 언어 재개발
@@ -85,6 +87,7 @@ content:
         description: |
           - JWT 토큰을 활용하여 안전한 로그인 세션 유지 및 주기적 리프레시 토큰 생성을 통해 보안성을 강화
           - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질</mark>을 향상
+          - Spring Schedule
 
       - layout: left
         border: weak
@@ -141,11 +144,10 @@ content:
         quote: >
           M25·TopGear·부동산써브 등 다양한 뉴미디어 사업을 전개하고 있는 종합 정보 미디어 기업
         description: |
-          - Spring Framework 및 Vue.js를 활용한 일관된 개발 환경 구축으로 개발 효율성 향상
-          - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 매핑하는 서비스 개발
-          - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
-          - JWT 토큰을 활용하여 안전한 로그인 세션 유지 및 주기적 리프레시 토큰 생성을 통해 보안성을 강화
-          - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질</mark>을 향상
+          - Spring Framework 및 Vue.js를 활용한 개발 환경 구축
+          - 공통 스크립트 기능 자체 개발로 개발 기간 단축
+          - JWT 토큰을 활용한 로그인 보안 강화
+          - Upsource와 GitLab 연동을 통한 코드 리뷰 환경 구축
       - layout: left
         title: 애드캡슐소프트
         sub_title: 웹 개발자
@@ -154,10 +156,11 @@ content:
         quote: >
           웹사이트,모바일사이트 구축(APP&Mobile Web),대규모 ITO(IT OUTSOURCING)
         description: |
-          - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
-          - 본사 내 인사고과 앱 서비스 개발 및 관련 문서 작성 (Git Wiki 활용)
-          - 각 PL 역할로 3개의 사이트 담당하며 프로젝트 성공률 100% 달성 및 <mark>사내 최고 개발자 선정</mark>
-          - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 보안을 강화
+          - 중소기업중앙회 구인/구직 플랫폼 개선 프로젝트 참여
+          - 인사고과 앱 서비스 개발 및 문서 작성
+          - PL 역할 수행, 프로젝트 성공률 100% 달성 및 사내 베스트 개발자 선정
+          - 웹 애플리케이션 보안 강화 (SQL Injection 방지 등)
+
   - title: Skill
     layout: list
     content:
