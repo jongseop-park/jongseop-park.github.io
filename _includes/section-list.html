@@ -24,9 +24,9 @@
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
       {{ item.description | strip | markdownify }}
-      {%- if include.item.tech_stack -%}
+      {%- if item.tech_stack -%}
       <span style="font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;">
-        <b style="color: #1E90FF;">기술 스택</b>: {{ include.item.tech_stack }}
+        <b style="color: #1E90FF;">기술 스택</b>: {{ item.tech_stack }}
       </span>
       {%- endif -%}
     </div>
