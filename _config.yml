@@ -99,7 +99,8 @@ content:
           2022. 12. 05 ~ 2022. 12. 30
         description: |
           - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
-        tech_stack: Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
+        tech_stack: |
+        Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
       - layout: left
         border: weak
         title: 본사 인사고과 시스템 개발
