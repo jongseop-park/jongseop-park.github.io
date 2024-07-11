@@ -77,8 +77,8 @@ content:
             - 정규식 마스킹처리, storage 암·복호화, 페이징 처리, format, filter, validation 등
           - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
           - 300만 건의 데이터에 대한 실행 계획을 분석하고 튜닝하여 <mark>쿼리 속도를 30초에서 5초</mark>로 최적화함
-          <br/>
-          <span style="color: blue;">**기술 스택**</span>: Java, Spring Boot
+          <br/><br/>
+          <span style="color: #1E90FF; font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;">**기술 스택**</span>: Java, Spring Boot
       - layout: left
         border: weak
         title: 요청 게시판 언어 재개발
