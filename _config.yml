@@ -99,7 +99,7 @@ content:
           2022. 12. 05 ~ 2022. 12. 30
         description: |
           - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
-        teck_stack: Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
+        tech_stack: Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
       - layout: left
         border: weak
         title: 본사 인사고과 시스템 개발
@@ -109,7 +109,7 @@ content:
           2022. 08. 01 ~ 2022. 12. 02
         description: |
           - 본사 내 인사고과 앱 서비스 개발 및 관련 문서 작성 (Git Wiki 활용)
-        teck_stack: Java, Spring Boot, Vue.js
+        tech_stack: Java, Spring Boot, Vue.js
       - layout: left
         border: weak
         title: 중소기업중앙회 홈페이지 통합 유지보수
@@ -122,7 +122,7 @@ content:
           - 다양한 템플릿 엔진, 데이터베이스 활용으로 개발 효율성 증진
           - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 보안을 강화
           - <mark>사내 베스트 개발자 선정</mark>
-        teck_stack: Java, Spring Boot, Spring Scheduler, Apache POI, MyBatis, Gradle, Maven, JavaScript, jQuery, Thymeleaf, JSP, JSTL, Oracle DB, PostgreSQL, Linux, Jenkins, GitHub, IBSheet
+        tech_stack: Java, Spring Boot, Spring Scheduler, Apache POI, MyBatis, Gradle, Maven, JavaScript, jQuery, Thymeleaf, JSP, JSTL, Oracle DB, PostgreSQL, Linux, Jenkins, GitHub, IBSheet
       - layout: left
         border: weak
         title: 정보 접근성 스크립트 개발
@@ -135,7 +135,7 @@ content:
           - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
           - 키보드 동작에 따라 개발자 도구 내 소스를 소리로 읽도록 구현
           - 바닐라 스크립트와 jQuery를 사용하였고, jQuery를 최신 버전으로 유지하여 호환성 확보
-        teck_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
+        tech_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
 
   - title: Experience
     layout: list
