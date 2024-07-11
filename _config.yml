@@ -55,8 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   저는 5년차 웹 개발자로 <mark>Web Agency/SI/SM/플랫폼 개발</mark> 등 다양한 기술과 프로젝트 경험을 토대로 <mark>전문적인 역량</mark>을 갖추고 있습니다.<br/>
 
-  주요 기술 스택은 java, springboot, vue.js, thymeleaf, jstl, javascript, jquery, database 등 <mark>다양한 템플릿과 언어 및 프레임워크</mark>를 다룰 수 있으며,
-  솔직하고 당찬 성격으로 팀 협업과 소통 능력을 통해 팀 프로젝트를 성공적으로 이끌어 낼 수 있는 역량을 보유하고 있습니다.<br/>
+  java, springboot, vue.js, thymeleaf, jstl, javascript, jquery, database 등 <mark>다양한 템플릿 엔진과 언어 및 프레임워크</mark>를 다룰 수 있으며,
+  솔직하고 당찬 성격으로 팀 협업과 소통 능력을 통해 방향성을 제시하며, 팀 프로젝트를 성공적으로 이끌어 낼 수 있는 역량을 보유하고 있습니다.<br/>
 
   제 다양한 경험과 끊임없는 도전으로 새로운 기회에 기여할 수 있을 것입니다.
 
@@ -76,7 +76,7 @@ content:
           - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
             - 정규식 마스킹처리, storage 암·복호화, 페이징 처리, format, filter, validation 등
           - 엑셀 다운로드 기능을 별도의 서비스(MSA)로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
-          - 300만 건의 데이터에 대한 실행 계획을 분석하고 튜닝하여 <mark>쿼리 속도를 30초에서 5초</mark>로 최적화함
+          - 300만 건의 데이터에 대한 실행 계획을 분석하고 튜닝하여 <mark>쿼리 속도를 30초에서 5초</mark>로 최적화
         tech_stack: Java, Spring Boot, MyBatis, Vue.js, Vuetify, MS-SQL, MariaDB, JWT, Spring Scheduler, Jenkins, GitLab
       - layout: left
         border: weak
@@ -88,7 +88,7 @@ content:
         description: |
           - Spring Boot의 버전과 Vue.js 버전 관리 및 프로젝트 환경 구성
           - JWT 토큰을 활용하여 안전한 로그인 세션 유지 및 주기적 리프레시 토큰 생성을 통해 보안성을 강화
-          - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질</mark>을 향상
+          - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질을 향상</mark>
         tech_stack: Java, JavaScript, Vue.js, Spring Boot, Spring Scheduler, JWT, MySQL, MariaDB, Gitlab
       - layout: left
         border: weak
@@ -98,7 +98,8 @@ content:
         quote: >
           2022. 12. 05 ~ 2022. 12. 30
         description: |
-          - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
+          - 단기간 내에 구인/구직 상세 기능 개선을 통해 효율적인 서비스 운영 지원
+          - 지역 선택 시 시군구까지 세분화하여, 업종 선택 시 잡코리아와 워크넷의 상세 직군 기반 2 Depth 추가로 <mark>사용자 만족도 30% 향상</mark>
         tech_stack: Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
       - layout: left
         border: weak
@@ -108,7 +109,9 @@ content:
         quote: >
           2022. 08. 01 ~ 2022. 12. 02
         description: |
-          - 본사 내 인사고과 앱 서비스 개발 및 관련 문서 작성 (Git Wiki 활용)
+          - 본사 내 인사고과 앱 서비스 개발
+          - 개발을 위한 툴, 환경설정, 버전 등 Git Wiki 가이드문서를 작성하여 <mark>개발 준비 기간 최소화</mark>
+          - 자주 발생하는 개발 이슈를 문서화하여 재발 방지
         tech_stack: Java, Spring Boot, Vue.js
       - layout: left
         border: weak
@@ -118,9 +121,11 @@ content:
         quote: >
           2021.01 . 01 ~ 2022. 07. 29
         description: |
-          - 각 PL 역할로 3개의 사이트 담당하며 프로젝트 성공률 100% 달성
+          - 각 PL 역할로 3개의 사이트 담당하며 <mark>프로젝트 성공률 100% 달성</mark>
           - 다양한 템플릿 엔진, 데이터베이스 활용으로 개발 효율성 증진
-          - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 보안을 강화
+          - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 <mark>보안을 강화</mark>
+          - 기프티콘, 추첨 등 이벤트 시 과도한 트래픽인한 Query Timeout 발생 문제를 즉각 튜닝하여 해결
+          - Git Flow를 공유하여 롤백이 쉽고, 각 담당자가 일관성 있게 개발할 수 있도록 도움을 줌
           - <mark>사내 베스트 개발자 선정</mark>
         tech_stack: Java, Spring Boot, Spring Scheduler, Apache POI, MyBatis, Gradle, Maven, JavaScript, jQuery, Thymeleaf, JSP, JSTL, Oracle DB, PostgreSQL, Linux, Jenkins, GitHub, IBSheet
       - layout: left
@@ -148,8 +153,8 @@ content:
         quote: >
           M25·TopGear·부동산써브 등 다양한 뉴미디어 사업을 전개하고 있는 종합 정보 미디어 기업
         description: |
-          - Spring Framework 및 Vue.js를 활용한 개발 환경 구축
-          - 공통 스크립트 기능 자체 개발로 개발 기간 단축
+          - ASP, .NET 기반 플랫폼을 Java Spring Framework, Vue.js로 재개발하는 프로젝트 참여
+          - 공통 스크립트 기능 개발로 팀 개발 기간 단축
           - JWT 토큰을 활용한 로그인 보안 강화
           - Upsource와 GitLab 연동을 통한 코드 리뷰 환경 구축
       - layout: left
@@ -162,7 +167,7 @@ content:
         description: |
           - 중소기업중앙회 구인/구직 플랫폼 개선 프로젝트 참여
           - 인사고과 앱 서비스 개발 및 문서 작성
-          - PL 역할 수행, 프로젝트 성공률 100% 달성 및 사내 베스트 개발자 선정
+          - 중소기업중앙회 운영 PL 역할 수행, 프로젝트 성공률 100% 달성 및 사내 베스트 개발자 선정
           - 웹 애플리케이션 보안 강화 (SQL Injection 방지 등)
 
   - title: Skill
