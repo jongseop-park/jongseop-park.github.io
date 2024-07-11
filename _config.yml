@@ -67,16 +67,18 @@ content:
       - layout: left
         border: weak
         title: 벼룩시장 플랫폼 재개발
+        sub_title: 미디어윌벼룩시장사업본부
         link: https://www.findjob.co.kr
         quote: >
           2023. 08. 01 ~ 현재
         description: |
           - 클라이언트·서버 프로젝트 환경 구성 및 네이밍 가이드라인을 제시하여 일관성 향상
-          - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>하고 팀워크를 증진
-          - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 매핑하는 서비스 개발
+          - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
+          - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
       - layout: left
         border: weak
         title: 요청 게시판 언어 재개발
+        sub_title: 미디어윌벼룩시장사업본부
         link: https://www.findjob.co.kr
         quote: >
           2023. 01. 09 ~ 2023. 07. 31
@@ -87,29 +89,33 @@ content:
       - layout: left
         border: weak
         title: 중소기업중앙회 "참 괜찮은 중소기업" 개선 단기 구축
+        sub_title: 애드캡슐소프트
         link: https://www.smes.go.kr/gsmb/company/excellence_employment
         quote: >
           2022. 12. 05 ~ 2022. 12. 30
         description: |
-          - abc
+          - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
       - layout: left
         border: weak
         title: 본사 인사고과 시스템 개발
+        sub_title: 애드캡슐소프트
         link_text: 벼룩시장 플랫폼 재개발
         quote: >
           2022. 08. 01 ~ 2022. 12. 02
         description: |
-          - abc
+          - 본사 내 인사고과 앱 서비스 개발 및 관련 문서 작성 (Git Wiki 활용)
       - layout: left
         border: weak
         title: 중소기업중앙회 홈페이지 통합 유지보수
+        sub_title: 애드캡슐소프트
         link: https://www.kbiz.or.kr/ko/index/index.do
         quote: >
           2021.01 . 01 ~ 2022. 07. 29
         description: |
           - 각 PL 역할로 3개의 사이트 담당하며 프로젝트 성공률 100% 달성
           - 다양한 템플릿 엔진, 데이터베이스 활용으로 개발 효율성 증진
-          = 
+          - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 보안을 강화
+          - <mark>사내 베스트 개발자 선정</mark>
 
       - layout: left
         border: weak
@@ -137,7 +143,7 @@ content:
         description: |
           - Spring Framework 및 Vue.js를 활용한 일관된 개발 환경 구축으로 개발 효율성 향상
           - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 매핑하는 서비스 개발
-          - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>하고 팀워크를 증진
+          - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
           - JWT 토큰을 활용하여 안전한 로그인 세션 유지 및 주기적 리프레시 토큰 생성을 통해 보안성을 강화
           - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질</mark>을 향상
       - layout: left
@@ -161,6 +167,8 @@ content:
           업무 중에 한 번이라도 사용했거나 사용 중인 기술들입니다.
         description: |
           - Java
+          - Redis
+          - MSA
           - Spring
             - Spring MVC
             - Spring Boot
@@ -178,9 +186,6 @@ content:
             - MariaDB
             - Mybatis
             - Mssql
-          - Build
-          - Redis
-          - MSA
           - Build Tools
             - Maven
             - Gradle
