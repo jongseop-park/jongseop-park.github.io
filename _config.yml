@@ -75,9 +75,9 @@ content:
           - 클라이언트·서버 프로젝트 환경 구성 및 네이밍 가이드라인을 제시하여 일관성 향상
           - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
             - 정규식 마스킹처리, storage 암·복호화, 페이징 처리, format, filter, validation 등
-          - 엑셀 다운로드 기능을 별도의 서비스로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
+          - 엑셀 다운로드 기능을 별도의 서비스(MSA)로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
           - 300만 건의 데이터에 대한 실행 계획을 분석하고 튜닝하여 <mark>쿼리 속도를 30초에서 5초</mark>로 최적화함
-        tack_stack: Java, Spring boot
+        tech_stack: Java, Spring Boot, MyBatis, Vue.js, Vuetify, MS-SQL, MariaDB, JWT, Spring Scheduler, Jenkins, GitLab
       - layout: left
         border: weak
         title: 요청 게시판 언어 재개발
@@ -89,7 +89,7 @@ content:
           - Spring Boot의 버전과 Vue.js 버전 관리 및 프로젝트 환경 구성
           - JWT 토큰을 활용하여 안전한 로그인 세션 유지 및 주기적 리프레시 토큰 생성을 통해 보안성을 강화
           - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질</mark>을 향상
-
+        tech_stack: Java, JavaScript, Vue.js, Spring Boot, Spring Scheduler, JWT, MySQL, MariaDB, Gitlab
       - layout: left
         border: weak
         title: 중소기업중앙회 "참 괜찮은 중소기업" 개선 단기 구축
@@ -99,6 +99,7 @@ content:
           2022. 12. 05 ~ 2022. 12. 30
         description: |
           - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
+        teck_stack: Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
       - layout: left
         border: weak
         title: 본사 인사고과 시스템 개발
@@ -108,6 +109,7 @@ content:
           2022. 08. 01 ~ 2022. 12. 02
         description: |
           - 본사 내 인사고과 앱 서비스 개발 및 관련 문서 작성 (Git Wiki 활용)
+        teck_stack: Java, Spring Boot, Vue.js
       - layout: left
         border: weak
         title: 중소기업중앙회 홈페이지 통합 유지보수
@@ -120,7 +122,7 @@ content:
           - 다양한 템플릿 엔진, 데이터베이스 활용으로 개발 효율성 증진
           - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 보안을 강화
           - <mark>사내 베스트 개발자 선정</mark>
-
+        teck_stack: Java, Spring Boot, Spring Scheduler, Apache POI, MyBatis, Gradle, Maven, JavaScript, jQuery, Thymeleaf, JSP, JSTL, Oracle DB, PostgreSQL, Linux, Jenkins, GitHub, IBSheet
       - layout: left
         border: weak
         title: 정보 접근성 스크립트 개발
@@ -133,6 +135,7 @@ content:
           - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
           - 키보드 동작에 따라 개발자 도구 내 소스를 소리로 읽도록 구현
           - 바닐라 스크립트와 jQuery를 사용하였고, jQuery를 최신 버전으로 유지하여 호환성 확보
+        teck_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
 
   - title: Experience
     layout: list
