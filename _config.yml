@@ -77,7 +77,7 @@ content:
             - 정규식 마스킹처리, storage 암·복호화, 페이징 처리, format, filter, validation 등
           - 엑셀 다운로드 기능을 별도의 서비스(MSA)로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
           - 300만 건의 데이터에 대한 실행 계획을 분석하고 튜닝하여 <mark>쿼리 속도를 30초에서 5초</mark>로 최적화함
-        tech_stack: "Java, Spring Boot, MyBatis, Vue.js, Vuetify, MS-SQL, MariaDB, JWT, Spring Scheduler, Jenkins, GitLab"
+        tech_stack: Java, Spring Boot, MyBatis, Vue.js, Vuetify, MS-SQL, MariaDB, JWT, Spring Scheduler, Jenkins, GitLab
       - layout: left
         border: weak
         title: 요청 게시판 언어 재개발
@@ -89,7 +89,7 @@ content:
           - Spring Boot의 버전과 Vue.js 버전 관리 및 프로젝트 환경 구성
           - JWT 토큰을 활용하여 안전한 로그인 세션 유지 및 주기적 리프레시 토큰 생성을 통해 보안성을 강화
           - 코드 리뷰를 위한 Upsource 환경을 구축하고 GitLab과 연동하여 <mark>코드 품질</mark>을 향상
-        tech_stack: 'Java, JavaScript, Vue.js, Spring Boot, Spring Scheduler, JWT, MySQL, MariaDB, Gitlab'
+        tech_stack: Java, JavaScript, Vue.js, Spring Boot, Spring Scheduler, JWT, MySQL, MariaDB, Gitlab
       - layout: left
         border: weak
         title: 중소기업중앙회 "참 괜찮은 중소기업" 개선 단기 구축
@@ -99,9 +99,7 @@ content:
           2022. 12. 05 ~ 2022. 12. 30
         description: |
           - 중소기업중앙회 "참 괜찮은 중소기업" 구인/구직 플랫폼 개선으로 <mark>사용자 만족도 30% 향상</mark>
-        tech_stack:
-          - Java
-#          - Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
+        tech_stack: Java, Spring Boot, MyBatis, Linux, JSP, JSTL, Jenkins, Github
       - layout: left
         border: weak
         title: 본사 인사고과 시스템 개발
