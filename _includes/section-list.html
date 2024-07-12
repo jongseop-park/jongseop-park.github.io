@@ -25,9 +25,9 @@
       {%- endif -%}
       {{ item.description | strip | markdownify }}
       {%- if item.tech_stack -%}
-      <span style="font-size: 1.6rem; font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;">
-        <b style="color: #1E90FF;">Tech Stack.</b> {{ item.tech_stack }}
-      </span>
+      <p class="tech-stack">
+        <span>Tech Stack.</span> {{ item.tech_stack }}
+      </p>
       {%- endif -%}
     </div>
   </div>
