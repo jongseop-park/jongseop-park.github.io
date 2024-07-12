@@ -247,7 +247,7 @@ content:
         description: |
           - 게임 내 반복 작업으로 재화 획득 및 소모하여 강해지는 방치형 RPG 게임
           - C#, Unity엔진 사용 및 Asset을 적용하여 이벤트 처리
-          - 구글 플레이스토어에 앱 출시 (현재는 운영하지 않음)
+          - 구글 플레이스토어에 앱 출시
           - 20팀 중 <mark>금상 수여</mark>
 #  - title: A Little More About Me
 #    layout: text
