@@ -124,7 +124,7 @@ content:
           - 각 PL 역할로 3개의 사이트 담당하며 <mark>프로젝트 성공률 100% 달성</mark>
           - 다양한 템플릿 엔진, 데이터베이스 활용으로 개발 효율성 증진
           - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 <mark>보안을 강화</mark>
-          - 기프티콘, 추첨 등 이벤트 시 과도한 트래픽인한 Query Timeout 발생 문제를 즉각 튜닝하여 해결
+          - 과도한 트래픽으로 Query Timeout 발생 시 문제를 즉각 튜닝하여 해결
           - Git Flow를 공유하여 롤백이 쉽고, 각 담당자가 일관성 있게 개발할 수 있도록 도움을 줌
           - <mark>사내 베스트 개발자 선정</mark>
         tech_stack: Java, Spring Boot, Spring Scheduler, Apache POI, MyBatis, Gradle, Maven, JavaScript, jQuery, Thymeleaf, JSP, JSTL, Oracle DB, PostgreSQL, Linux, Jenkins, GitHub, IBSheet
