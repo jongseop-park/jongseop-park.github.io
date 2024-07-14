@@ -233,7 +233,7 @@ content:
         link: https://github.com/khsbory/javascript-for-accessibility
         caption: 2021. 11. ~ 2022. 12.
         quote: >
-          단기 스크립트 개발 아르바이트
+          단기 스크립트 개발
         description: |
           - 시각 장애인 사용자의 입장에서 개발하기 위해 스크린 리더를 설치하여 테스트
           - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
