@@ -128,19 +128,6 @@ content:
           - Git Flow를 공유하여 롤백이 쉽고, 각 담당자가 일관성 있게 개발할 수 있도록 도움을 줌
           - <mark>사내 베스트 개발자 선정</mark>
         tech_stack: Java, Spring Boot, Spring Scheduler, Apache POI, MyBatis, Gradle, Maven, JavaScript, jQuery, Thymeleaf, JSP, JSTL, Oracle DB, PostgreSQL, Linux, Jenkins, GitHub, IBSheet
-      - layout: left
-        border: weak
-        title: 정보 접근성 스크립트 개발
-        sub_title: 단기 외주 프로젝트
-        link: https://github.com/khsbory/javascript-for-accessibility
-        quote: >
-          2021. 11. ~ 2022. 12.
-        description: |
-          - 시각 장애인 사용자의 입장에서 개발하기 위해 스크린 리더를 설치하여 테스트
-          - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
-          - 키보드 동작에 따라 개발자 도구 내 소스를 소리로 읽도록 구현
-          - 바닐라 스크립트와 jQuery를 사용하였고, jQuery를 최신 버전으로 유지하여 호환성 확보
-        tech_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
 
   - title: Experience
     layout: list
@@ -229,8 +216,8 @@ content:
     content:
       - layout: left
         title: 비사이드
+        sub_title: 사회 활동
         link: https://bside.best
-        sub_title: BE 개발
         caption: 2022. 02 ~ 2022. 05
         quote: >
           총 165개의 프로젝트를 진행한 사이드 프로젝트 플랫폼
@@ -240,7 +227,22 @@ content:
           - Miro, Figma, Notion 등을 활용하여 아이디어 활용, 마일스톤 작성
           - Java, Spring Boot로 서버 개발 및 <mark>JWT, OAuth2.0 로그인 기능</mark> 구현<br/>
       - layout: left
+        border: weak
+        title: 정보 접근성 스크립트 개발
+        sub_title: 아르바이트
+        link: https://github.com/khsbory/javascript-for-accessibility
+        caption: 2021. 11. ~ 2022. 12.
+        quote: >
+          단기 스크립트 개발 아르바이트
+        description: |
+          - 시각 장애인 사용자의 입장에서 개발하기 위해 스크린 리더를 설치하여 테스트
+          - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
+          - 키보드 동작에 따라 개발자 도구 내 소스를 소리로 읽도록 구현
+          - 바닐라 스크립트와 jQuery를 사용하였고, jQuery를 최신 버전으로 유지하여 호환성 확보
+        tech_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
+      - layout: left
         title: 캡스톤 경진대회
+        sub_title: 교내 활동
         caption: 2019. 04 ~ 2019. 12
         quote: >
           다양한 주제(Web/App/Game/AI/IoT 등)를 포함하는 교내 경진대회
