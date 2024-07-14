@@ -239,7 +239,7 @@ content:
           - 장애나 나이에 구애받지 않고 <mark>정보 접근성을 보장</mark>하도록 개발
           - 키보드 동작에 따라 개발자 도구 내 소스를 소리로 읽도록 구현
           - 바닐라 스크립트와 jQuery를 사용하였고, jQuery를 최신 버전으로 유지하여 호환성 확보
-        tech_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
+#        tech_stack: ES6 JavaScript, Vanilla JavaScript, jQuery
       - layout: left
         title: 캡스톤 경진대회
         sub_title: 교내 활동
