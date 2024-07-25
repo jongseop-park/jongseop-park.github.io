@@ -43,9 +43,9 @@ youtube_username: '@user-ku1kl3qe7v'
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-WW7TKZNZ"
-# gtag: "G-LE1WF2CVSH"
-# google_analytics: "G-LE1WF2CVSH"
+ gtm: "GTM-WW7TKZNZ"
+ gtag: "G-LE1WF2CVSH"
+ google_analytics: "G-LE1WF2CVSH"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
