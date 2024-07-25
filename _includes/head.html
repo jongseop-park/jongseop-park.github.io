@@ -9,13 +9,13 @@
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | default: '/assets/favicon.ico' | relative_url }}">
 
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  {%- if jekyll.environment == 'production' and site.gtm -%}
+  {%- if site.gtm -%}
     {%- include gtm_head.html -%}
   {%- endif -%}
-  {%- if jekyll.environment == 'production' and site.gtag -%}
+  {%- if site.gtag -%}
     {%- include gtag.html -%}
   {%- endif -%}
 </head>
