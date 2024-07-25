@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.9.0'
-gem 'github-pages', group: :jekyll_plugins
+gem "github-pages", "~> 228" # 최신 안정 버전으로 설정
+gem "jekyll", "~> 4.3.3"     # jekyll 4.3.3 버전
