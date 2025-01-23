@@ -70,12 +70,12 @@ content:
         sub_title: 미디어윌벼룩시장사업본부
         link: https://www.findjob.co.kr
         quote: >
-          2023. 08. 01 ~ 현재
+          2023. 08. 01 ~ 2024.12.02
         description: |
           - 클라이언트·서버 프로젝트 환경 구성 및 네이밍 가이드라인을 제시하여 일관성 향상
           - 90% 이상 자체 개발한 공통 스크립트 기능으로 <mark>개발 기간을 20% 이상 단축</mark>
             - 정규식 마스킹처리, storage 암·복호화, 페이징 처리, format, filter, validation 등
-          - 엑셀 다운로드 기능을 별도의 서비스(MSA)로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 서비스 개발
+          - 엑셀 다운로드 기능을 별도의 서비스(MSA)로 분리하고, LinkedMap을 활용해 헤더와 데이터를 순서대로 매핑하는 공통 서비스 개발
           - 300만 건의 데이터에 대한 실행 계획을 분석하고 튜닝하여 <mark>쿼리 속도를 30초에서 5초</mark>로 최적화
         tech_stack: Java, Spring Boot, MyBatis, Vue.js, Vuetify, MS-SQL, MariaDB, JWT, Spring Scheduler, Jenkins, GitLab
       - layout: left
@@ -121,7 +121,7 @@ content:
         quote: >
           2021.01 . 01 ~ 2022. 07. 29
         description: |
-          - 각 PL 역할로 3개의 사이트 담당하며 <mark>프로젝트 성공률 100% 달성</mark>
+          - 12개 사이트 중 3개의 사이트 담당하며 <mark>프로젝트 성공률 100% 달성</mark>
           - 다양한 템플릿 엔진, 데이터베이스 활용으로 개발 효율성 증진
           - SQL Injection 공격 분석과 개발자 도구 제어, 서버측 특수 문자 치환으로 차단하여 웹 애플리케이션 <mark>보안을 강화</mark>
           - 과도한 트래픽으로 Query Timeout 발생 시 문제를 즉각 튜닝하여 해결
